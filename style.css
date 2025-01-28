@@ -21,7 +21,7 @@ h1 {
 }
 
 p {
-  color: grey;
+  color: rgb(110, 109, 109);
 }
 
 @media (max-width: 500px) {
